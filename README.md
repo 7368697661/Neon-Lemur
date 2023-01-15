@@ -29,6 +29,24 @@ However, changing the background is fairly simple
 
 Color accents and everything else are another story. If you feel brave, good luck and go for a dive! Otherwise, i will probably only update this slowly for now.
 
+# How to Install
+
+## With BRAT
+1. Download the plugin BRAT on the community store
+2. Grab the URL from either of these locations: ![image](https://user-images.githubusercontent.com/87339163/212568783-ff1df28b-a5d1-4dc5-8d70-18eb67d082e8.png)
+3. Run this command in Obsidian: ![image](https://user-images.githubusercontent.com/87339163/212568742-0fbd8c63-1910-4c67-8043-6720a5564fd3.png)
+4. The theme should now be in your theme list
+
+## Git Clone
+If this is your cup of tea, you certainly don't need me explaining it 🥰
+
+## Manually
+1. Download the theme by clicking:
+![image](https://user-images.githubusercontent.com/87339163/212568606-4929fa9f-fa11-4d0a-9c9a-adec58e3d69d.png)
+2. Open the zip file, and place the folder Neon-Lemur-main in your .obsidian, themes folder
+3. Rename the file to "Neon Lemur" (remove the -main at the end)
+4. It should now show up in your themes list
+
 # Inspiration and credit:
 Translucent structure came from a screenshot @anubis posted, i never would have been able to bring this idea back otherwise :)
 
