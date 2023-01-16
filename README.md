@@ -29,6 +29,8 @@ However, changing the background is fairly simple
 
 Color accents and everything else are another story. If you feel brave, good luck and go for a dive! Otherwise, i will probably only update this slowly for now.
 
+![image](https://user-images.githubusercontent.com/87339163/212576343-26ba058b-f5e8-4d8d-8b12-339b36c1de54.png)
+
 # How to Install
 
 ## With BRAT
